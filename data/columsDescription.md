@@ -8,7 +8,7 @@
 |Gender      | Пол пользователя|
 |SeniorCitizen|Пенсионер (1, 0) |
 |Partner    | Есть ли у пользователя пара|
-|Dependents |Есть ли у пользователя Иждивенец (Yes, No)|
+|Dependents |Есть ли у пользователя иждивенцы (Yes, No)|
 |tenure     |Количество месяцев, в течение которых клиент пользуется услугами|
 |PhoneService|Пользуется ли клиент сервисами(Yes, No)|
 |MultipleLines|Имеет ли клиент несколько линий или нет(Yes, No, No phone service)|
@@ -23,5 +23,5 @@
 |PaperlessBilling|Имеет ли клиент электронный счет или нет (Yes, No)|
 |PaymentMethod|Способ оплаты (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))|
 |MonthlyCharges|Сумма, взимаемая с клиента ежемесячно|
-|TotalCharges|Общая сумма, взимаемая с клиента|
+|TotalCharges|Общая сумма, потраченная клиентом|
 |Churn|Ушел клиент или нет (Yes or No)|
