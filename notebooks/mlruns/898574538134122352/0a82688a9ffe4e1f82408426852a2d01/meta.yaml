@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/0a82688a9ffe4e1f82408426852a2d01/artifacts
+end_time: 1763677775608
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: 0a82688a9ffe4e1f82408426852a2d01
+run_name: basicRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763677771419
+status: 3
+tags: []
+user_id: User
