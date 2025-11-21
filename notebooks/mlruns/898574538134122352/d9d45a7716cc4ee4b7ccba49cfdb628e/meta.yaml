@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/d9d45a7716cc4ee4b7ccba49cfdb628e/artifacts
+end_time: 1763769113862
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: d9d45a7716cc4ee4b7ccba49cfdb628e
+run_name: XGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763769106486
+status: 3
+tags: []
+user_id: User
