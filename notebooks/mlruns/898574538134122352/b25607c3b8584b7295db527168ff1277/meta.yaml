@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/b25607c3b8584b7295db527168ff1277/artifacts
+end_time: 1763779170429
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: b25607c3b8584b7295db527168ff1277
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763779153640
+status: 3
+tags: []
+user_id: User
