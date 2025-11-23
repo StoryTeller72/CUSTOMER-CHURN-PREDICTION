@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/55e7926da94047d59a4d771a33682a5f/artifacts
+end_time: 1763768018832
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: 55e7926da94047d59a4d771a33682a5f
+run_name: LGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763768008479
+status: 3
+tags: []
+user_id: User

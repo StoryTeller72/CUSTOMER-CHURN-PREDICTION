@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/dc399268d04a49e9859eef1486b6a792/artifacts
+end_time: 1763759176533
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: dc399268d04a49e9859eef1486b6a792
+run_name: tunedRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763759170864
+status: 3
+tags: []
+user_id: User

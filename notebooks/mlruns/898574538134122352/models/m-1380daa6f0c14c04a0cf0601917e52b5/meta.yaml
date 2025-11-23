@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/models/m-1380daa6f0c14c04a0cf0601917e52b5/artifacts
+creation_timestamp: 1763769109394
+experiment_id: '898574538134122352'
+last_updated_timestamp: 1763769113851
+model_id: m-1380daa6f0c14c04a0cf0601917e52b5
+model_type: null
+name: XGBM
+source_run_id: d9d45a7716cc4ee4b7ccba49cfdb628e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/f6e4d0276316438eaa5742f186d0ca5a/artifacts
+end_time: 1763763843457
+entry_point_name: ''
+experiment_id: '898574538134122352'
+lifecycle_stage: active
+run_id: f6e4d0276316438eaa5742f186d0ca5a
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763763828413
+status: 3
+tags: []
+user_id: User

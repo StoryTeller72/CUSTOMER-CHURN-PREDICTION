@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/User/Desktop/ML_projects/ChurnPrediction/notebooks/mlruns/898574538134122352/models/m-87e63e943a144c998164a5fb3393f2ea/artifacts
+creation_timestamp: 1763755903775
+experiment_id: '898574538134122352'
+last_updated_timestamp: 1763755912951
+model_id: m-87e63e943a144c998164a5fb3393f2ea
+model_type: null
+name: logreg_pipeline
+source_run_id: 695b0dbb1fa342b6bf20820f2c5feb51
+status: 2
+status_message: null
